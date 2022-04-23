@@ -6,6 +6,8 @@
 - Ruby On Rails
 - PostgreSQL
 
+**Link to the front-end part [here](https://github.com/RolandM99/hello-react-front-end)**
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
